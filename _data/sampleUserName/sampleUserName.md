@@ -1,6 +1,6 @@
 ---
-name: XYZ 
+name: Divyanshu Das 
 institution: Sagar Institute Of Science and Technology 
-technology: Python, Cloud
-github_user: sampleUserName
+technology: Python, Django, HTML, CSS, Javascript, SQL, Pandas, Numpy
+github_user: divi1501
 ---
