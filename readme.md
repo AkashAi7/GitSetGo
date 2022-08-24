@@ -1,6 +1,12 @@
 
 # About the Event
  We are organising the event for the students new to GitHub; by participating in the event, they can learn how to use Github by doing simple tasks.
+
+
+# Learner's Book 2022
+
+ Check out learner's book 2022 [Learner's Book ](https://forms.gle/G2fabi7yWbGYXPtA7)
+
  
 ![Git-Set-Go](/assets/introbanner.png)
 
