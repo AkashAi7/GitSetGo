@@ -5,7 +5,7 @@
 
 # Learner's Book 2022
 
- Check out learner's book 2022 [Learner's Book ](https://forms.gle/G2fabi7yWbGYXPtA7)
+ Check out learner's book 2022 [Learner's Book ](/learnerbook.html)
 
  
 ![Git-Set-Go](/assets/introbanner.png)
